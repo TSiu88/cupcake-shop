@@ -1,6 +1,6 @@
 # _[Cupcake Shop](https://github.com/TSiu88/cupcake-shop)_
 
-#### _First HTML Exercise, 01.08.2020_
+#### _CSS Div and Span Styling, 01.08.2020_
 
 #### By _**Tiffany Siu and Andriy Veremyeyev**_
 
